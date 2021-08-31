@@ -86,3 +86,5 @@ Code Snippets. Visual Studio provides useful code snippets that you can use to q
 Expansion snippets and surround-with snippets. In Visual Studio there are two kinds of code snippets: expansion snippets, which are added at a specified insertion point and may replace a snippet shortcut. Surround-with snippets, which are added around a selected block of code.
 
 Read the Coding Standards.
+
+This is a test edit. I am trying to learn how to make a pull request.
